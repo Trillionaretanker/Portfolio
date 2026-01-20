@@ -167,7 +167,7 @@ const projects = [
       },
     ],
     image: inkSync,
-    source_code_link: "https://github.com/himanshu8443/InkSync",
+    //source_code_link: "https://github.com/himanshu8443/InkSync",
     //live_link: "https://www.inksync.cloud/",
   },
   {
@@ -210,7 +210,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/himanshu8443/hayasaka",
+    //source_code_link: "https://github.com/himanshu8443/hayasaka",
     //live_link: "https://hayasaka.live/",
   },
   {
@@ -251,7 +251,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/himanshu8443/Study-Notion-master",
+    //source_code_link: "https://github.com/himanshu8443/Study-Notion-master",
     //live_link: "https://studynotion-master.vercel.app/",
   },
   {
@@ -277,9 +277,8 @@ const projects = [
       },
     ],
     image: tracker,
-    source_code_link: "https://github.com/himanshu8443/FlipKart-Price-Tracker",
-    live_link:
-      "https://chromewebstore.google.com/detail/fliptrack-flipkart-price/pekpfcghlbljghaojdlajgpceebobokd?hl=en",
+    //source_code_link: "https://github.com/himanshu8443/FlipKart-Price-Tracker",
+    //live_link:"https://chromewebstore.google.com/detail/fliptrack-flipkart-price/pekpfcghlbljghaojdlajgpceebobokd?hl=en",
   },
   {
     name: "Vallox Cube",
